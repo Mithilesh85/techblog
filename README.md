@@ -1,0 +1,3 @@
+# techblog
+this is my first project based on jsp and servlet(advance java)
+i have used so many technologies in this project such as java ,jdbc,html,css,javascript,jquerym,bootstrap and many.....
